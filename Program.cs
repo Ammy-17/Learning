@@ -2,5 +2,6 @@
 
 // var excercise1 = new Excercise1();
 // var excercise2 = new Excercise2();
-//var excercise3 = new Excercise3();
-var excersice4 = new Excercise4();
+// var excercise3 = new Excercise3();
+// var excersice4 = new Excercise4();
+var excercise5 = new Excercise5();
