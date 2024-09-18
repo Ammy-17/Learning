@@ -1,6 +1,6 @@
 ﻿using System.Numerics;
 
-namespace Learning
+namespace Learning.Excercises
 {
     /// <summary>
     /// Ejercicio que realiza una suma, resta, división o multiplición
@@ -54,13 +54,13 @@ namespace Learning
                 return;
             }
             if (operation == "*")
-            { 
+            {
                 Console.WriteLine($"Multiplicación: {a * b}");
                 return;
             }
             if (operation == "/")
             {
-                if (b == 0) 
+                if (b == 0)
                 {
                     Console.WriteLine("No se puede dividir por 0");
                     return;

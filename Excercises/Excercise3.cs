@@ -1,4 +1,4 @@
-﻿namespace Learning
+﻿namespace Learning.Excercises
 {
     /// <summary>
     /// Ejercicio que pinte los valores de un arreglo.
@@ -26,7 +26,7 @@
                 Console.Write(message[i]);
             }
             Console.WriteLine();
-            
+
             // Bucle while, por condición.
             int whileIterator = 0;
             while (whileIterator < message.Length)

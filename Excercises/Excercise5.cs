@@ -1,4 +1,4 @@
-﻿namespace Learning
+﻿namespace Learning.Excercises
 {
     class Excercise5
     {

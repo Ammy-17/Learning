@@ -1,4 +1,4 @@
-﻿namespace Learning
+﻿namespace Learning.Excercises
 {
     /// <summary>
     /// Ejercicio de invertir una cadena de texto.
